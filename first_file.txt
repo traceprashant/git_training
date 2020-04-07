@@ -1,3 +1,4 @@
 first commit
 second commit to master first_file.txt
 sec_line_frst_file
+first_file_third_line
